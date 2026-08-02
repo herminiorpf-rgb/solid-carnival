@@ -1,2 +1,2 @@
 # solid-carnival
-estou atras de arquivos de SQL da biblia toda 
+estou atras de arquivos de SQL da biblia toda hebraico, aramaico e grego
